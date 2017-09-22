@@ -4,32 +4,32 @@ The [iOS Developer Nanodegree offered by Udacity](https://www.udacity.com/course
 
 I completed all the material and "graduated" in November 2016. Below are links to the program's portfolio projects, in order of completion:
 
-##Projects
+## Projects
 
-###Pitch Perfect
+### Pitch Perfect
 
 [Source Code](https://github.com/jlouthan/pitch-perfect)
 
 Establishing fundamental principles with UI elements, Model View Controller (MVC) design principles, Playing audio files using AVFoundation’s AVAudioEngine class, UINavigationController, implementing the delegate pattern.
 
-###MemeMe 1.0 and MemeMe 2.0
+### MemeMe 1.0 and MemeMe 2.0
 
 [Source Code](https://github.com/jlouthan/meme-me)
 
 Two separate project submissions to demonstrate use of UIImagePickerController, understanding of Swift optionals, closures, collections, classes, structs and protocols, UIActivityViewController to share media, advanced delegate implementation, tables with custom cells, tab and collection views.
 
-###On The Map
+### On The Map
 
 [Source Code](https://github.com/jlouthan/on-the-map)
 
 Accessing networked data using Apple’s URL loading framework, authenticating a user using over a network connection, communicating network activity in UI, using Core Location and the MapKit framework to display annotated pins on a map
 
-###Virtual Tourist
+### Virtual Tourist
 
 [Source Code](https://github.com/jlouthan/virtual-tourist)
 
 Using NSURLSessions to interact with a public restful API, storing media on the device file system, using Core Data for local persistence of an object structure
 
-###Capstone:  Urban Hikers' Guide
+### Capstone:  Urban Hikers' Guide
 
 [Source Code](https://github.com/jlouthan/urban-hikers-guide)
